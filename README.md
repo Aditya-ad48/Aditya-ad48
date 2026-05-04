@@ -37,7 +37,7 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 
 **ML / AI & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,docker,streamlit,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,docker,git,github)](https://skillicons.dev)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
