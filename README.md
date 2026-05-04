@@ -13,12 +13,13 @@
 ---
 
 ## 🧠 About Me
-I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varanasi**, specializing in AI/ML at the intersection of research and production engineering. 
-
--🔭 Currently exploring Agentic AI, RAG systems, and LLM fine-tuning
--🛠️ Built a production-grade RAG system for causal analysis of call-center transcripts — showcased at Inter IIT Tech Meet 14.0 (Problem Statement by Observe.AI), finishing 4th Overall
--🎓 Mentored students in ML & AI as part of Prastuti 2025, Department of Electrical Engineering, IIT (BHU)
-
+ 
+ 
+I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varanasi**, specializing in AI/ML at the intersection of research and production engineering.
+ 
+- 🔭 Currently exploring **Agentic AI**, **RAG systems**, and **LLM fine-tuning**
+- 🛠️ Built a production-grade RAG system for causal analysis of call-center transcripts — **showcased at Inter IIT Tech Meet 14.0** (Problem Statement by Observe.AI), finishing **4th Overall**
+- 🎓 Mentored students in ML & AI as part of **Prastuti 2025**, Department of Electrical Engineering, IIT (BHU)
 ---
 
 ## 🚀 Featured Projects
