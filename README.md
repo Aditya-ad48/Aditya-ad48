@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🤖+AI%2FML+Engineer+%7C+LLM+Architect+%7C+IIT+(BHU)+Varanasi;🧠+Multi-Agent+Systems+•+RAG+Pipelines+•+Computer+Vision)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.ahirwar.eee23@iitbhu.ac.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aditya-ad48&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/Aditya-ad48)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.ahirwar.eee23@iitbhu.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-ahirwar-03114b282)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya-ad48)
 
 </div>
 
@@ -40,37 +40,25 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,cpp,c,go)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,mysql)](https://skillicons.dev)
 
-**AI / ML**
+**ML / AI & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,docker,streamlit,git,github)](https://skillicons.dev)
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-
-**Tools & Infrastructure**
-
-[![Skills](https://skillicons.dev/icons?i=docker,git,flask,react,streamlit,linux)](https://skillicons.dev)
-
-**Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
 ## 🏆 Achievements
 
 ```
-🥇  1st Place  —  Google Startup Weekend, E-Cell IIT (BHU)                      Aug 2024
-🏅  4th Overall —  Inter IIT Tech Meet 14.0 (Problem by Observe.AI)             Dec 2025
-🥉  3rd Place  —  BNY Mini Hackathon (AI/ML) · Smart KYC Risk Scoring Engine    Apr 2026
-🥉  3rd Place  —  BNY Service Design Jam · Order Management System for Trading  Apr 2026
+🥇  1st Place   —  Google Startup Weekend, E-Cell IIT (BHU)                      Aug 2024
+🏅  4th Overall —  Inter IIT Tech Meet 14.0 (Problem by Observe.AI)              Dec 2025
+🥉  3rd Place   —  BNY Mini Hackathon (AI/ML) · Smart KYC Risk Scoring Engine    Apr 2026
+🥉  3rd Place   —  BNY Service Design Jam · Order Management System for Trading  Apr 2026
 ```
 
 ---
@@ -83,16 +71,6 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-ad48&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&border_radius=12)](https://github.com/Aditya-ad48)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-ad48&theme=radical&hide_border=true&border_radius=12)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Aditya-ad48/Aditya-ad48/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
