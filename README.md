@@ -26,10 +26,10 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 
 | 🤖 Project | 💡 What it does |
 |---|---|
-| [**ReCOR RAG**](https://github.com/Aditya-ad48) | Production-grade RAG for call-center transcripts — ColBERT reranking, RAPTOR retrieval, vLLM serving. Showcased at **Inter IIT Tech Meet 14.0** |
-| [**Multi-Agent Financial Analyzer**](https://github.com/Aditya-ad48) | 8-agent LangGraph orchestration with swarm-based handoffs, 80% latency reduction via thread-aware caching |
-| [**EvalDash**](https://github.com/Aditya-ad48) | LLM evaluation platform: fine-tuned DistilBERT + DeBERTa NLI + Cross-Encoder for instruction scoring & hallucination detection |
-| [**Chest X-ray Detector**](https://github.com/Aditya-ad48) | YOLOv8 pipeline detecting 14 thoracic abnormalities at **90% accuracy** · Deployed on Streamlit |
+| [**ReCOR RAG**](https://github.com/Aditya-ad48/recor-rag) | Production-grade RAG for call-center transcripts — ColBERT reranking, RAPTOR retrieval, vLLM serving. Showcased at **Inter IIT Tech Meet 14.0** |
+| [**Multi-Agent Financial Analyzer**](https://github.com/Aditya-ad48/multi-agent-financial-analyzer) | 8-agent LangGraph orchestration with swarm-based handoffs, 80% latency reduction via thread-aware caching |
+| [**EvalDash**](https://github.com/Aditya-ad48/LLM_Response_Eval) | LLM evaluation platform: fine-tuned DistilBERT + DeBERTa NLI + Cross-Encoder for instruction scoring & hallucination detection |
+| [**Chest X-ray Detector**](https://github.com/Aditya-ad48/YOLO_Medical_Disease_Detection) | YOLOv8 pipeline detecting 14 thoracic abnormalities at **90% accuracy** · Deployed on Streamlit |
 
 ---
 
