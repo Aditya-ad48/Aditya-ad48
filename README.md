@@ -14,7 +14,12 @@
 
 ## 🧠 About Me
 
+
+
 I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varanasi**, specializing in AI/ML at the intersection of research and production engineering. 
+
+---
+
 ## 🚀 Featured Projects
 
 | 🤖 Project | 💡 What it does |
@@ -22,7 +27,7 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 | [**ReCOR RAG**](https://github.com/Aditya-ad48) | Production-grade RAG for call-center transcripts — ColBERT reranking, RAPTOR retrieval, vLLM serving. Showcased at **Inter IIT Tech Meet 14.0** |
 | [**Multi-Agent Financial Analyzer**](https://github.com/Aditya-ad48) | 8-agent LangGraph orchestration with swarm-based handoffs, 80% latency reduction via thread-aware caching |
 | [**EvalDash**](https://github.com/Aditya-ad48) | LLM evaluation platform: fine-tuned DistilBERT + DeBERTa NLI + Cross-Encoder for instruction scoring & hallucination detection |
-| [**Chest X-ray Detector**](https://github.com/Aditya-ad48) | YOLOv8 pipeline detecting 14 thoracic abnormalities· Deployed on Streamlit |
+| [**Chest X-ray Detector**](https://github.com/Aditya-ad48) | YOLOv8 pipeline detecting 14 thoracic abnormalities at **90% accuracy** · Deployed on Streamlit |
 
 ---
 
@@ -54,14 +59,16 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 ---
 
 ## 📊 GitHub Stats
- 
+
 <div align="center">
+
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya-ad48&show_icons=true&theme=radical&hide_border=true&border_radius=12)](https://github.com/Aditya-ad48)
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya-ad48&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&border_radius=12)](https://github.com/Aditya-ad48)
- 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-ad48&theme=radical&hide_border=true&border_radius=12)](https://git.io/streak-stats)
- 
+
 </div>
+
 ---
 
 ## 📌 What I'm Building Next
