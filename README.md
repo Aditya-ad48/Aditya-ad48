@@ -15,9 +15,6 @@
 ## 🧠 About Me
 
 I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varanasi**, specializing in AI/ML at the intersection of research and production engineering. 
-
----
-
 ## 🚀 Featured Projects
 
 | 🤖 Project | 💡 What it does |
@@ -50,6 +47,8 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 ```
 🥇  1st Place   —  Google Startup Weekend, E-Cell IIT (BHU)                      Aug 2024
 🏅  4th Overall —  Inter IIT Tech Meet 14.0 (Problem by Observe.AI)              Dec 2025
+🥉  3rd Place   —  BNY Mini Hackathon (AI/ML) · Smart KYC Risk Scoring Engine    Apr 2026
+🥉  3rd Place   —  BNY Service Design Jam · Order Management System for Trading  Apr 2026
 ```
 
 ---
