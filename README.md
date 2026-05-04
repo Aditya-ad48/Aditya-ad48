@@ -62,9 +62,6 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya-ad48&show_icons=true&theme=radical&hide_border=true&border_radius=12)](https://github.com/Aditya-ad48)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya-ad48&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&border_radius=12)](https://github.com/Aditya-ad48)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-ad48&theme=radical&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 
 </div>
