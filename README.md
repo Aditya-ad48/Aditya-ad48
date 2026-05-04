@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Ahirwar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20AI%20systems%20that%20actually%20think&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🤖+AI%2FML+Engineer+%7C+LLM+Architect+%7C+IIT+(BHU)+Varanasi;🧠+Multi-Agent+Systems+•+RAG+Pipelines+•+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🤖+AI%2FML+Engineer+%7C+LLM+Architect+%7C+IIT+(BHU)+Varanasi)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Aditya-ad48&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/Aditya-ad48)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.ahirwar.eee23@iitbhu.ac.in)
@@ -14,14 +14,7 @@
 
 ## 🧠 About Me
 
-> *"I don't just use AI — I architect it."*
-
-I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varanasi**, specializing in AI/ML at the intersection of research and production engineering. I build things that reason, retrieve, and respond — from 8-agent orchestration systems to LLM evaluation pipelines that ship.
-
-- 🔭 Currently exploring **Agentic AI**, **RAG systems**, and **LLM fine-tuning**
-- 🏆 **4th Overall** at Inter IIT Tech Meet 14.0 · **1st Place** Google Startup Weekend
-- 🧪 I believe in eval-driven development — if you can't measure it, you can't improve it
-- 📍 Varanasi, India · ⚡ CGPA: 7.81/10
+I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varanasi**, specializing in AI/ML at the intersection of research and production engineering. 
 
 ---
 
@@ -32,7 +25,7 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 | [**ReCOR RAG**](https://github.com/Aditya-ad48) | Production-grade RAG for call-center transcripts — ColBERT reranking, RAPTOR retrieval, vLLM serving. Showcased at **Inter IIT Tech Meet 14.0** |
 | [**Multi-Agent Financial Analyzer**](https://github.com/Aditya-ad48) | 8-agent LangGraph orchestration with swarm-based handoffs, 80% latency reduction via thread-aware caching |
 | [**EvalDash**](https://github.com/Aditya-ad48) | LLM evaluation platform: fine-tuned DistilBERT + DeBERTa NLI + Cross-Encoder for instruction scoring & hallucination detection |
-| [**Chest X-ray Detector**](https://github.com/Aditya-ad48) | YOLOv8 pipeline detecting 14 thoracic abnormalities at **90% accuracy** · Deployed on Streamlit |
+| [**Chest X-ray Detector**](https://github.com/Aditya-ad48) | YOLOv8 pipeline detecting 14 thoracic abnormalities· Deployed on Streamlit |
 
 ---
 
@@ -57,8 +50,6 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 ```
 🥇  1st Place   —  Google Startup Weekend, E-Cell IIT (BHU)                      Aug 2024
 🏅  4th Overall —  Inter IIT Tech Meet 14.0 (Problem by Observe.AI)              Dec 2025
-🥉  3rd Place   —  BNY Mini Hackathon (AI/ML) · Smart KYC Risk Scoring Engine    Apr 2026
-🥉  3rd Place   —  BNY Service Design Jam · Order Management System for Trading  Apr 2026
 ```
 
 ---
@@ -79,6 +70,7 @@ I'm an interdisciplinary **B.Tech + M.Tech (IDD)** student at **IIT (BHU) Varana
 ## 📌 What I'm Building Next
 
 - 🔬 Exploring **speculative decoding** and **inference optimization** for LLMs
+- 👁️ Diving into **Vision Language Models (VLMs)** and multimodal AI systems
 - 🤝 Open to research collabs, SDE internships, and AI product roles
 - 📬 Reach me at: **aditya.ahirwar.eee23@iitbhu.ac.in**
 
